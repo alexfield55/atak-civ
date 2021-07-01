@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- if you change this file, make sure to tick the versionCode in AndroidManifest. -->
-<plugin>
-
-    <extension
-        type="transapps.maps.plugin.lifecycle.Lifecycle"
-        impl="com.atakmap.android.plugintemplate.plugin.PluginTemplateLifecycle"
-        singleton="true" />
-
-    <extension
-        type="transapps.maps.plugin.tool.ToolDescriptor"
-        impl="com.atakmap.android.plugintemplate.plugin.PluginTemplateTool"
-        singleton="true" />
-
-</plugin>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b973be54c2657371f49a9bf085460e997dd3dcfa3bffe36d51ec90372d2fa0e2
+size 506

@@ -1,28 +1,3 @@
-
-
-
-<!-- see ATSKApplication for the implementation - this is just for referece and not used in the code -->
-
-
-
-<menu
-    buttonBg="bgs/atsk/atsk_button.xml"
-    buttonWidth='90'
-    buttonSpan="90"
-    buttonRadius='65'>
-
-    <button
-        disabled="!{${removable}}"
-        onClick="actions/atsk/atsk_delete_obs.xml"
-        icon="icons/delete.png"
-        angle="90"/>
-    <button
-        onClick="actions/atsk/atsk_edit_obs.xml"
-        icon="icons/obstruction_edit.png"/>
-    <button
-        onClick="actions/cancel.xml"
-        icon="icons/close.png"/>
-    <button
-        onClick="actions/atsk/atsk_obs_info.xml"
-        icon="icons/info.png"/>
-</menu>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ada5ada3bbc063252e033c0dfb91a196c66bfc53ea1adfece8e82ba8bbd90f6
+size 661

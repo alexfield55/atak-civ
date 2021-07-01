@@ -1,31 +1,3 @@
-package com.atakmap.android.helloworld.recyclerview;
-
-import android.content.Context;
-import android.util.AttributeSet;
-
-/**
- * RecyclerView override for use with ATAK
- */
-public class RecyclerView extends androidx.recyclerview.widget.RecyclerView {
-
-    private static final String TAG = "RecyclerView";
-
-    public RecyclerView(Context context) {
-        super(context);
-    }
-
-    public RecyclerView(Context context, AttributeSet attrs) {
-        super(context, attrs);
-    }
-
-    public RecyclerView(Context context, AttributeSet attrs, int defStyle) {
-        super(context, attrs, defStyle);
-    }
-
-    @Override
-    public void scrollTo(int x, int y) {
-        // Not supported and causes a crash when called
-        // Samsung likes to call this method directly outside of our control
-        // So we need to override it with a no-op
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fae1dddd50b49d4074e123a88c5f3b43d64b9b1111996e194dda46cc1c2e4a6
+size 852

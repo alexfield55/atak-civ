@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    
-    <!-- COMMON -->
-    <color name="white">#ffffff</color>
-    <color name="darker_gray">#121212</color>
-
-    <!-- LED -->
-
-    <!-- PRESET -->
-
-</resources>
+version https://git-lfs.github.com/spec/v1
+oid sha256:091f27dad559e1014c2759f7afbac89fb23f3e538751cc33348e8e64d24f1143
+size 214

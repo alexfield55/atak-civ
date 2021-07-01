@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/dot_selected"
-          android:state_selected="true"/>
-
-    <item android:drawable="@drawable/dot_unselected"/>
-</selector>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed1d73ce31ce21d308f35926c8a64b0775d1e325deaeb7005a8e889c68bef636
+size 272

@@ -1,28 +1,3 @@
-{
-  "version": 1,
-  "applicationId": "com.atakmap.android.plugintemplate.plugin",
-  "variantType": "BASE_APK",
-  "elements": [
-    {
-      "outputType": {
-        "type": "MERGED_MANIFESTS"
-      },
-      "apkData": {
-        "type": "MAIN",
-        "splits": [],
-        "versionCode": 1,
-        "versionName": "1.0 (1) - [4.2.0]",
-        "outputFile": "ATAK-Plugin-plugintemplate-1.0-1-4.2.0-civ-debug.apk",
-        "fullName": "civDebug",
-        "baseName": "civ-debug",
-        "dirName": ""
-      },
-      "path": "AndroidManifest.xml",
-      "properties": {
-        "packageId": "com.atakmap.android.plugintemplate.plugin",
-        "split": "",
-        "minSdkVersion": "21"
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:575970f81fb1f676fdadd87fc9ff454c606f880fb85eb8f44cc189b72e9bc955
+size 726

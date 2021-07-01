@@ -1,6 +1,3 @@
-{
-  "version": 1,
-  "applicationId": "com.atakmap.android.plugintemplate.plugin",
-  "variantType": "BASE_APK",
-  "elements": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb623e2a9ad4a1e9e57049bb67c468736f77cdcaf7ad437ae17e0ae46fcd891
+size 129

@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- App -->
-    <string name="app_name">Plugin Template</string>
-    <!-- description -->
-    <string name="app_desc">This plugin demonstrate bare bones plugin UI, and may be used to start a new plugin project</string>
-
-
-
-
-</resources>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a5fe62592b40507f99a1346d95422f35de3c607db18960d8dbdcb52f4918c76
+size 292

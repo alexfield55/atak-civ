@@ -1,26 +1,3 @@
-[
-    {
-        "merged": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\build\\intermediates\\res\\merged\\civ\\debug\\drawable_new_dark_button_disabled.xml.flat",
-        "source": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\src\\main\\res\\drawable\\new_dark_button_disabled.xml"
-    },
-    {
-        "merged": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\build\\intermediates\\res\\merged\\civ\\debug\\drawable_new_dark_button_bg.xml.flat",
-        "source": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\src\\main\\res\\drawable\\new_dark_button_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\build\\intermediates\\res\\merged\\civ\\debug\\drawable_new_dark_button_selected.xml.flat",
-        "source": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\src\\main\\res\\drawable\\new_dark_button_selected.xml"
-    },
-    {
-        "merged": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\build\\intermediates\\res\\merged\\civ\\debug\\drawable_ic_launcher.png.flat",
-        "source": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\src\\main\\res\\drawable\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\build\\intermediates\\res\\merged\\civ\\debug\\layout_main_layout.xml.flat",
-        "source": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\src\\main\\res\\layout\\main_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\build\\intermediates\\res\\merged\\civ\\debug\\drawable_btn_gray.xml.flat",
-        "source": "C:\\Users\\USAF_Admin\\Desktop\\atak-civ-sdk-4.2.0.0\\atak-civ\\plugin-examples\\plugintemplate\\app\\src\\main\\res\\drawable\\btn_gray.xml"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccdefa39ee59cc2c2ea030051132fc3ba5cadea183cd6e1c954b77f660c21b3b
+size 2536

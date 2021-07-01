@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <PreferenceCategory android:title="Nested Preference Screen" />
-
-    <SwitchPreference
-        android:key="switch_pref"
-        android:summaryOff="Switch Preference example: OFF"
-        android:summaryOn="Switch Preference example: ON"
-        android:title="Switch Preference" />
-
-    <Preference
-        android:key="app_version"
-        android:persistent="false"
-        android:selectable="false"
-        android:summary="@string/versionName"
-        android:title="App Version" />
-
-
-</PreferenceScreen>
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:330232d68ce04266ed270320fcc44ecc3d48dcf4e7206110c5825dfd6e50f9f7
+size 635

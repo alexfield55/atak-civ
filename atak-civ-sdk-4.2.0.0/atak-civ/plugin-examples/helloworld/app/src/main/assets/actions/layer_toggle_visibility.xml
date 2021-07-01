@@ -1,17 +1,3 @@
-<set>
-    <broadcast>
-        <action>com.atakmap.android.helloworld.LAYER_VISIBILITY</action>
-        <extras>
-            <string key='uid'>${uid}</string>
-        </extras>
-    </broadcast>
-    <broadcast>
-        <action>com.atakmap.android.maps.UNFOCUS</action>
-    </broadcast>
-    <broadcast>
-        <action>com.atakmap.android.maps.HIDE_DETAILS</action>
-    </broadcast>
-    <broadcast>
-        <action>com.atakmap.android.maps.HIDE_MENU</action>
-    </broadcast>
-</set>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1d34bd575d2115a4efbcbdfcac6485e1f0ffbcdb149877415bee94b808f834
+size 479

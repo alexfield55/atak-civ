@@ -1,13 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package com.atakmap.android.plugintemplate.plugin;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.atakmap.android.plugintemplate.plugin";
-  public static final String BUILD_TYPE = "debug";
-  public static final String FLAVOR = "civ";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0 (1) - [4.2.0]";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:df83a04d0e2fc66a67463f2464f645074edcd2da82be2243b17a3a2814e139bc
+size 522

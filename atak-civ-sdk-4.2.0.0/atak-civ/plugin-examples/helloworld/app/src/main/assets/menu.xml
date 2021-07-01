@@ -1,6 +1,3 @@
-<menu buttonRadius='70' buttonSpan='36' buttonWidth='90' buttonBg='bgs/button.xml'>
-      <button angle='-90' icon='icons/close.png' onClick='actions/cancel.xml' />
-      <button icon='remove.png' onClick='remove.xml' disabled='!{${removable}}' />
-      <button onClick='actions/9line.xml' icon='icons/cas.png' prefKey='nineline_default_menu' submenu='menu_submenu.xml' disableSwap='false'/>
-      <button icon='details.png' onClick='specialdetail.xml' />
-</menu>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51b85dd69001ca6f624951f2e1295163a37d6ce024cc4d53ffe3dbd0e589a01
+size 464

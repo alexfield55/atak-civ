@@ -1,14 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<menu
-    buttonBg='bgs/button.xml'
-    buttonRadius='65'
-    buttonSpan='180'
-    buttonWidth='90' >
-
-    <button angle='-90'
-            icon='icons/delete.png'
-            onClick='actions/layer_delete.xml' />
-
-    <button icon='icons/eye.png'
-        onClick='actions/layer_toggle_visibility.xml'/>
-</menu>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b70f13eaca4c824e2dc52f66dc31e9cbb7e52f09c5849ca1626f58633f29ad65
+size 349

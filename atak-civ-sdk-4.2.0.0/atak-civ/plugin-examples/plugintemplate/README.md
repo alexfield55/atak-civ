@@ -1,35 +1,3 @@
-(Plugin Name)
-
-
-_________________________________________________________________
-PURPOSE AND CAPABILITIES
-
-(General Description)
-
-
-_________________________________________________________________
-STATUS
-
-(In Progress?  Expected release?  Released?  To Who?  When?)
-
-_________________________________________________________________
-POINT OF CONTACTS
-
-(Who is developing this)
-
-_________________________________________________________________
-PORTS REQUIRED
-
-(This is important for ATO, networking, and other security concerns)
-
-_________________________________________________________________
-EQUIPMENT REQUIRED
-
-_________________________________________________________________
-EQUIPMENT SUPPORTED
-
-_________________________________________________________________
-COMPILATION
-
-_________________________________________________________________
-DEVELOPER NOTES
+version https://git-lfs.github.com/spec/v1
+oid sha256:bba8d956508fea4414263ca3ca88cf20eb9653db2ee8c184b2448d13b691441e
+size 865

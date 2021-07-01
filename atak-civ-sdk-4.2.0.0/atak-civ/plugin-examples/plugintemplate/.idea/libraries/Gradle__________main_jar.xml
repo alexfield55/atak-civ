@@ -1,11 +1,3 @@
-<component name="libraryTable">
-  <library name="Gradle: ./../../main.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../main.jar!/" />
-    </CLASSES>
-    <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../atak-javadoc.jar!/" />
-    </JAVADOC>
-    <SOURCES />
-  </library>
-</component>
+version https://git-lfs.github.com/spec/v1
+oid sha256:32a3e68a6244b2e8e4a7f5d1f42a1f9c66d14820ca31ae7765764356c2dff1cd
+size 309

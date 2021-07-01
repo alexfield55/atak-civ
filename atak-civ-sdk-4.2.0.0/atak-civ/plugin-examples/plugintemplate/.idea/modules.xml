@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugintemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/plugintemplate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/plugintemplate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/plugintemplate.app.iml" />
-    </modules>
-  </component>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:508316a464e768a6d05d854e5dba94163226258d20ab329f7ba0bc10800c628a
+size 459

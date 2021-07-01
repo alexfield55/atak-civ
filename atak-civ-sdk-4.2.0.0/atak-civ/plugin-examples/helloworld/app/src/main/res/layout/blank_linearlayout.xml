@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:orientation="vertical" >
-
-</LinearLayout>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2753afb5ba92258039d1da9dcebc9f97120135bc835b564906dd710dc4c026b
+size 245

@@ -1,1 +1,3 @@
-ATAK CIV SDK 18da424 (1608517384)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccdfe2b2127642da9e8cd3472615a41237de5dde31f36c7215b4127cdc130601
+size 34

@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              android:orientation="horizontal"
-              android:layout_width="wrap_content"
-              android:layout_height="wrap_content">
-
-    <Button
-        android:id="@+id/footer_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:padding="6dp"
-        android:text="@string/example_footer"
-        style="@style/darkButton"/>
-
-</LinearLayout>
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ae9e7c39ba594ca87e27ac8fc18a4cde4cb067d371990c8f20100e88f2151f
+size 531

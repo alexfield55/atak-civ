@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/details_base"
-        android:drawable="@drawable/ic_launcher"
-        android:gravity="center" />
-
-    <!-- set a place holder Drawable so android:drawable isn't null -->
-    <item
-        android:id="@+id/ic_badge"
-        android:drawable="@drawable/ic_launcher" />
-</layer-list>
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:46651adf7bd380cba2abec0f4573fd2f925af896644dc315608cb9553a2ac6e6
+size 430

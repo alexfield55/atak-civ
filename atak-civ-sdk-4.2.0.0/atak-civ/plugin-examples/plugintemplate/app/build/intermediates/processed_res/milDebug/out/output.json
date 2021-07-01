@@ -1,28 +1,3 @@
-{
-  "version": 1,
-  "applicationId": "com.atakmap.android.plugintemplate.plugin",
-  "variantType": "BASE_APK",
-  "elements": [
-    {
-      "outputType": {
-        "type": "PROCESSED_RES"
-      },
-      "apkData": {
-        "type": "MAIN",
-        "splits": [],
-        "versionCode": 1,
-        "versionName": "1.0 (1) - [4.2.0]",
-        "outputFile": "ATAK-Plugin-plugintemplate-1.0-1-4.2.0-mil-debug.apk",
-        "fullName": "milDebug",
-        "baseName": "mil-debug",
-        "dirName": ""
-      },
-      "path": "resources-milDebug.ap_",
-      "properties": {
-        "packageId": "com.atakmap.android.plugintemplate.plugin",
-        "split": "",
-        "minSdkVersion": "21"
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47cab23bbd28221037927dca70d2048e66a0c937925163bfc2e0e30d9912c1e
+size 726
